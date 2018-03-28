@@ -1,3 +1,3 @@
 Repositorio del Proyecto de Ejemplo
-Universidad NUR
+Universidad NUR - Santa Cruz
 Ingenieria de Software III
