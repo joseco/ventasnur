@@ -1,4 +1,4 @@
 Repositorio del Proyecto de Ejemplo
-Universidad NUR
+Universidad NUR - Bolivia
 Ingenieria de Software III
 Docente: Jose Carlos Gutierrez
