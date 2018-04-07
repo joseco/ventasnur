@@ -2,19 +2,20 @@
 
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-    <title></title>
-    <asp:ContentPlaceHolder id="head" runat="server">
-    </asp:ContentPlaceHolder>
-</head>
-<body>
-    <form id="form1" runat="server">
-    <div>
-        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
-        
+<html>
+    <head runat="server">
+        <title></title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <asp:ContentPlaceHolder id="head" runat="server">
         </asp:ContentPlaceHolder>
-    </div>
-    </form>
-</body>
+    </head>
+    <body>
+        <form id="form1" runat="server" class="container">
+        <div>t
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+            </asp:ContentPlaceHolder>
+        </div>
+        </form>
+    </body>
 </html>
