@@ -1,4 +1,4 @@
-USE [VentaInventarioDB]
+USE [VentaNurDB]
 GO
 
 SET IDENTITY_INSERT [dbo].[tbl_Usuario] ON;
